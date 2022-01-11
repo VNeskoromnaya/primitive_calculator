@@ -1,0 +1,27 @@
+html,
+body {
+    margin: 0;
+    background: rgb(108, 162, 194);
+    background-image: url("/assets/img/backgraund.jpeg");
+
+}
+
+.wrapper {
+    height: 200px;
+    width: 750px;
+    margin: 228px auto 0 auto;
+    background: rgb(63, 117, 172);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button {
+    height: 25%;
+    width: 13%;
+}
+
+.icon {
+    width: 33%;
+}
