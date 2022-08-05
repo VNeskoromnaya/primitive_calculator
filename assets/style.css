@@ -1,9 +1,10 @@
 html,
 body {
+    width: 100%;
+    height: 80%;
     margin: 0;
-    background: rgb(108, 162, 194);
-    background-image: url("/assets/img/backgraund.jpeg");
-
+    background-color: rgb(108, 162, 194);
+    background: url("./img/backgraund.jpeg") round;
 }
 
 .wrapper {
